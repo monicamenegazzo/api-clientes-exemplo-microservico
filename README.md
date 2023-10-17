@@ -7,7 +7,8 @@ Ela foi criada para o curso de teste de APIS com Postman, Java, Restassured [dis
 Mesmo sem ter feito o curso, você pode baixar e executar a API pra estudo =)
 
 Usei Kotlin e Springboot para programar essa API.
-hshshshshs
+alteração moni
+
 
 ### Requisitos
 
